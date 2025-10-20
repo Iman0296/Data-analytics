@@ -111,7 +111,7 @@ Here are the key insights:
 
 - Knowledge of cloud platforms and big data tools like Azure, AWS, and Databricks is highly valued for senior remote analytics roles.
 
-![Top paid skills](project_sql\assets\required_skills.png.jpg)
+![Top paid skills](required_skills.png.jpg)
 
 ### 3. In-Demand Skills
 This query revealed the most in-demand skills from job postings, helping to highlight areas that attract the most employer interest.
