@@ -68,7 +68,7 @@ Key Insights:
 
 - Strong demand for flexibility: The presence of only remote, full-time roles shows that companies are adapting to a workforce that values flexibility without compromising pay.
 
-![Top Paying Role](project_sql\assets\top_paying_roles.png)
+![Top Paying Roles](top_roles_salary_distribution.png)
 *Bar Graph visualizing the salary for the top 10 Data Analyst roles; I used Python’s Matplotlib to plot the roles on the y-axis and their average yearly salaries on the x-axis. Salary values are displayed on each bar for easy comparison, showing which remote roles pay the most.*
 ### 2. Required Skills for Data Analyst Jobs
 To identify the most sought-after skills for high-paying remote data analyst roles, I joined job postings with their associated skills and filtered for positions with a defined average annual salary.
