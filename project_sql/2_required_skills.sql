@@ -10,7 +10,6 @@ SELECT
     job_location,
     job_schedule_type,
     salary_year_avg,
-    job_posted_date,
     c.name,
     skills_name.skills
 
@@ -26,6 +25,7 @@ WHERE
     salary_year_avg IS NOT NULL
 ORDER BY 
     salary_year_avg DESC
+
 
 
 
